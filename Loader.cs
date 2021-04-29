@@ -17,6 +17,7 @@ namespace SzoftMod
         {
             Subscribers subscribers = JsonConvert.DeserializeObject<Subscribers>(File.ReadAllText(@"subscribers.json"));
 
+
             foreach(Subscriber b in subscribers.subscribers) {
                 Console.WriteLine(b.airConditionerType);
             }

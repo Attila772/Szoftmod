@@ -1,0 +1,15 @@
+D:\Szotfmod\SzoftMod\SzoftMod\bin\Debug\netcoreapp3.1\SzoftMod.exe
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.csprojAssemblyReference.cache
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.AssemblyInfoInputs.cache
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.AssemblyInfo.cs
+D:\Szotfmod\SzoftMod\SzoftMod\bin\Debug\netcoreapp3.1\SzoftMod.deps.json
+D:\Szotfmod\SzoftMod\SzoftMod\bin\Debug\netcoreapp3.1\SzoftMod.runtimeconfig.json
+D:\Szotfmod\SzoftMod\SzoftMod\bin\Debug\netcoreapp3.1\SzoftMod.runtimeconfig.dev.json
+D:\Szotfmod\SzoftMod\SzoftMod\bin\Debug\netcoreapp3.1\SzoftMod.dll
+D:\Szotfmod\SzoftMod\SzoftMod\bin\Debug\netcoreapp3.1\SzoftMod.pdb
+D:\Szotfmod\SzoftMod\SzoftMod\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.csproj.CoreCompileInputs.cache
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.csproj.CopyComplete
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.dll
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.pdb
+D:\Szotfmod\SzoftMod\SzoftMod\obj\Debug\netcoreapp3.1\SzoftMod.genruntimeconfig.cache

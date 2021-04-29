@@ -6,7 +6,7 @@ namespace SzoftMod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hell!");
         }
     }
 }

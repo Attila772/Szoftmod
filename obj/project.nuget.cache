@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XF/CEccKWthHL4uhTX4UiZkSOM1jMjm/bJB95XQfCEqamdDOTWautWGuhgS1ET7PaASqz5n1EPhg+avud2flow==",
+  "dgSpecHash": "4EWXEcIzXaAs5pnqaKUeT5zNK6f4JaC27+nFbVecT3+RfMpEjCWSrR6kZALx/IEQy8UIKApAYB01ngRzA//gzA==",
   "success": true,
   "projectFilePath": "D:\\Szotfmod\\SzoftMod\\SzoftMod\\SzoftMod.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

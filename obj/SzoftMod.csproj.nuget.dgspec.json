@@ -45,6 +45,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[5.11.0, )"
             }
           },
           "imports": [

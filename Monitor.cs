@@ -31,12 +31,12 @@ namespace SzoftMod
             {
 
                 string url = "http://193.6.19.58:8182/smarthome/" + homeId;
-                Console.WriteLine(url);
+                //Console.WriteLine(url);
 
                 string todo = url.GetJsonFromUrl();
 
             // Session session = JsonConvert.DeserializeObject<Session>(todo);
-            Console.WriteLine(todo);
+            //Console.WriteLine(todo);
             //var obj = JObject.Parse(todo);
             //Session session = obj.ToObject<Session>();
 
@@ -45,14 +45,14 @@ namespace SzoftMod
 
 
 
-            Console.WriteLine(todo);
+            //Console.WriteLine(todo);
             string[] data = todo.Split('@', ',', '.', ';', '\'', '"');
             data[8] = data[8].Replace(":", "");
             string willbenumber = String.Join(",", data[8], data[9]);
 
             Session session = new Session();
             session.sessionId = (data[4].Replace('\'', ' ')).Trim();
-            Console.WriteLine(willbenumber);
+            //Console.WriteLine(willbenumber);
             session.temperature = float.Parse(willbenumber);
             session.boilerState = data[12].Contains("true");
             session.airConditionerState = data[15].Contains("true");

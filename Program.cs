@@ -10,7 +10,7 @@ namespace SzoftMod
         {
             Console.WriteLine("Hell!");
             Loader loader = new Loader();
-            loader.loadSubscribers();
+            Subscribers subscribers = loader.loadSubscribers();
         }
     }
 

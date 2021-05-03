@@ -6853,15 +6853,20 @@
   "packageFolders": {
     "C:\\Users\\xx\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Home\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\Veseko\\Szoftmod\\SzoftMod.csproj",
+      "projectUniqueName": "D:\\Aaron\\Szoftvermodellezés és tesztelés\\Beadandó\\Kódok\\Szoftmod\\SzoftMod.csproj",
       "projectName": "SzoftMod",
       "projectPath": "D:\\Veseko\\Szoftmod\\SzoftMod.csproj",
       "packagesPath": "C:\\Users\\xx\\.nuget\\packages\\",
       "outputPath": "D:\\Veseko\\Szoftmod\\obj\\",
+      "projectPath": "D:\\Aaron\\Szoftvermodellezés és tesztelés\\Beadandó\\Kódok\\Szoftmod\\SzoftMod.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "D:\\Aaron\\Szoftvermodellezés és tesztelés\\Beadandó\\Kódok\\Szoftmod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6870,6 +6875,7 @@
         "C:\\Users\\xx\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

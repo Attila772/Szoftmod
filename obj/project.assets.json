@@ -6851,25 +6851,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\A\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\xx\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Home\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Szotfmod\\SzoftMod\\SzoftMod\\SzoftMod.csproj",
+      "projectUniqueName": "D:\\Veseko\\Szoftmod\\SzoftMod.csproj",
+      "projectUniqueName": "D:\\Aaron\\Szoftvermodellezés és tesztelés\\Beadandó\\Kódok\\Szoftmod\\SzoftMod.csproj",
       "projectName": "SzoftMod",
-      "projectPath": "D:\\Szotfmod\\SzoftMod\\SzoftMod\\SzoftMod.csproj",
-      "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-      "outputPath": "D:\\Szotfmod\\SzoftMod\\SzoftMod\\obj\\",
+      "projectPath": "D:\\Veseko\\Szoftmod\\SzoftMod.csproj",
+      "packagesPath": "C:\\Users\\xx\\.nuget\\packages\\",
+      "outputPath": "D:\\Veseko\\Szoftmod\\obj\\",
+      "projectPath": "D:\\Aaron\\Szoftvermodellezés és tesztelés\\Beadandó\\Kódok\\Szoftmod\\SzoftMod.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "D:\\Aaron\\Szoftvermodellezés és tesztelés\\Beadandó\\Kódok\\Szoftmod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\xx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6880,6 +6886,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -6891,6 +6898,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
@@ -6916,7 +6924,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

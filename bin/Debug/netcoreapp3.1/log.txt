@@ -72,3 +72,12 @@
 2021. 05. 19. 18:27:18 : HIBA- homeID: TE34WS3224 Temp: 16 Túl alacsony
 2021. 05. 19. 18:27:19 : HIBA- homeID: EEI23EE12D Temp: 24 Túl magas
 2021. 05. 19. 18:27:20 : HIBA- homeID: KD34AF24DS Temp: 15 Túl alacsony
+2021. 05. 19. 18:30:44 : HIBA- homeID: EEI23EE12D Temp: 15 Túl alacsony
+2021. 05. 19. 18:30:45 : HIBA- homeID: LRKE4LE234D Temp: 16 Túl alacsony
+2021. 05. 19. 18:30:45 : HIBA- homeID: TTLR3234ZZ Temp: 15 Túl alacsony
+2021. 05. 19. 18:30:45 : HIBA- homeID: EEI23EE12D Temp: 15 Túl alacsony
+2021. 05. 19. 18:30:46 : HIBA- homeID: KD34AF24DS Temp: 15 Túl alacsony
+2021. 05. 19. 18:30:46 : HIBA- homeID: LRKE4LE234D Temp: 24 Túl magas
+2021. 05. 19. 18:30:48 : HIBA- homeID: KD34AF24DS Temp: 17 Túl alacsony
+2021. 05. 19. 18:30:49 : HIBA- homeID: TE34WS3224 Temp: 17 Túl alacsony
+2021. 05. 19. 18:30:50 : HIBA- homeID: TTLR3234ZZ Temp: 15 Túl alacsony
